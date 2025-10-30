@@ -1,14 +1,14 @@
-# 🧩 Week 1 – Project Problem Statement  
+# Week 1 – Project Problem Statement  
 ### Theme: Sustainability | Technology: Convolutional Neural Networks (CNN) | Domain: Image Classification  
 
 ---
 
-## 📘 Project Title  
+## Project Title  
 **Smart Waste Classification System using CNN**
 
 ---
 
-## 🧭 Problem Statement  
+##  Problem Statement  
 The increasing waste generation in urban areas poses a serious threat to environmental sustainability.  
 Improper segregation and disposal of waste contribute to land, air, and water pollution.  
 With growing industrialization and population density, manual waste sorting has become inefficient, reducing recycling efficiency and increasing environmental harm.  
@@ -17,7 +17,7 @@ There is a pressing need for an automated and intelligent solution that can stre
 
 ---
 
-## 💡 Project Concept  
+##  Project Concept  
 This project focuses on developing a **Smart Waste Classification System** using **Convolutional Neural Networks (CNN)** — a deep learning algorithm for image recognition.  
 
 The system aims to automatically classify waste images into categories such as **plastic, metal, paper, glass, and organic waste**.  
@@ -25,14 +25,14 @@ By accurately identifying the waste type, it can support **automated sorting**, 
 
 ---
 
-## 🧠 Objectives  
+##  Objectives  
 - To design and train a CNN model capable of classifying waste images.  
 - To create or collect a dataset of different waste types.  
 - To promote sustainable waste management through AI-based automation.  
 
 ---
 
-## 🗂️ Dataset Information  
+##  Dataset Information  
 **Dataset Name:** Garbage Classification Dataset  
 **Source:** [Kaggle – Garbage Classification v2](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2)  
 
@@ -43,7 +43,7 @@ It provides high-quality, diverse images for accurate classification and sustain
 
 ---
 
-## 🔄 Next Steps  
+##  Next Steps  
 1. **Collect & Prepare Dataset** – Download and organize the dataset for training and validation.  
 2. **Train the CNN Model** – Use **Google Teachable Machine** or **Google Colab** for model development.  
 3. **Evaluate & Test Model** – Measure performance and accuracy metrics.  
@@ -53,7 +53,7 @@ It provides high-quality, diverse images for accurate classification and sustain
 
 ---
 
-## 📅 Internship Progress Tracker  
+##  Internship Progress Tracker  
 | Week | Focus Area | Deliverables |
 |------|-------------|--------------|
 | Week 1 | Problem Statement & Dataset Research | README.md, Report (Week1_Project_Problem_Statement.docx) |
@@ -63,15 +63,15 @@ It provides high-quality, diverse images for accurate classification and sustain
 
 ---
 
-## 🧾 Deliverables (for Week 1)
-- ✅ `Week1_Project_Problem_Statement.docx`
-- ✅ `README.md`
-- 📎 Optional: Sample Dataset Folder or Screenshot  
+##  Deliverables (for Week 1)
+-  `Week1_Project_Problem_Statement.docx`
+-  `README.md`
+-  Optional: Sample Dataset Folder or Screenshot  
 
 ---
 
-## 👩‍💻 Author  
-**Name:** [Your Name]  
+##  Author  
+**Name:** [S.A.Tharun]  
 **Internship Project:** Smart Waste Classification using CNN  
 **GitHub Repository:** [https://github.com/mdgayase-78/week_1](https://github.com/mdgayase-78/week_1)
 
